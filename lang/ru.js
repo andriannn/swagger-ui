@@ -52,5 +52,5 @@ window.SwaggerTranslator.learn({
     "Finished Loading Resource Information. Rendering Swagger UI":"Загрузка информации о ресурсах завершена. Рендерим",
     "Unable to read api":"Не удалось прочитать api",
     "from path":"по адресу",
-    "server returned":"сервер сказал"
+    "server returned":"сервер сообщил"
 });
